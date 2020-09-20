@@ -5,14 +5,15 @@ Some pictures for markdown notes, blog, etc.
 
 ## Code Pictures
 
-Some pictures for code.
+Some illustrations for programming.
 
-Aspects included:
+Mainly includes:
 
-- Programming Language: c/c++, python, java
-- Web: html
+- Programming Language: c/c++, python
+- Web: html, Nginx
 - OS: Windows, Linux
 - Machine Learning: sklearn
+- Deep Learning: CNN, RNN, LSTM, GRU
 
 
 
@@ -30,11 +31,6 @@ Some pictures related to Nippon and Japanese.
 
 
 
+## ACG Pictures
 
-
-## Adobe Pictures
-
-Some pictures related to Adobe software.
-
-
-
+Some pictures related to ACG.
