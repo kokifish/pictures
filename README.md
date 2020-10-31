@@ -1,5 +1,5 @@
 # pictures
-Some pictures for markdown notes, blog, etc.
+Some pictures for markdown notes, blog, etc. All rights belong to the owner of the pictures(NOT me).
 
 
 
@@ -23,8 +23,6 @@ Some pictures related to music.
 
 
 
-
-
 ## Nippon Pictures
 
 Some pictures related to Nippon and Japanese.
@@ -34,3 +32,4 @@ Some pictures related to Nippon and Japanese.
 ## ACG Pictures
 
 Some pictures related to ACG.
+
