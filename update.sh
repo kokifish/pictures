@@ -16,7 +16,7 @@ echo "=== [WARNING] Fix by hands if conflict exits. Then [RE-RUN] this script ==
 echo 
 
 echo "[Step-2] Local changes add and commit:"
-git checkout master -v;
+git checkout master;
 git add . -v;
 
 git commit -v -am "$var";
