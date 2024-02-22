@@ -1,5 +1,5 @@
 if [ ! -n "$1" ];then
-    echo "please give commit massge after bash. e.g. 
+    echo "please give commit massge after bash. e.g.
     > bash update.sh \"code: virtual table pics\"
     > bash update.sh \"ctf: pwn stack map\""
     exit 1
@@ -13,10 +13,12 @@ echo
 echo "=== [WARNING] If conflict occured, related files will show below: ========="
 git status -v
 echo "=== [WARNING] Fix by hands if conflict exits. Then [RE-RUN] this script ==="
-echo 
+echo
 
 echo "[Step-2] Local changes add and commit:"
 git checkout master;
+git config user.name "k0k1"
+git config user.email "k0k1fish@outlook.com"
 git add . -v;
 
 git commit -v -am "$var";
